@@ -24,7 +24,7 @@ Want to show your support? [Give us some ❤]({{<ref "love">}}) !
 {{% notice tip %}}
 Any publication on Internet entails [legal obligations]({{<ref "sites/legal-requirements-on-internet">}}), make yourself aware of them before placing your content on-line.
 {{% /notice %}}
-
+Vvvv
 ## Terminology
 
 - **API** (Application Programming Interface): is a programming interface used to automate how you manage your resources.
